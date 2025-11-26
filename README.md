@@ -23,6 +23,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Je focus:
   hier je focus (kies uit responsive óf surface plane)
+
+  Ik kies uit surface plane omdat ik gelijk veel dingen op de site zie die mij leuk lijken om na te maken of om te verbeteren.
  
 </details>
 

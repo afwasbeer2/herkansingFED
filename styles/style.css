@@ -29,3 +29,9 @@
 
 /* jouw code */
 
+
+footer {
+	fill-rule: evenodd;
+	width: 1em;
+	height: 1em;
+}
